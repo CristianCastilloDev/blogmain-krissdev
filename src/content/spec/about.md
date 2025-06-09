@@ -1,7 +1,7 @@
 # About
-Esto es un sitio Demo [KrissDev](https://github.com/CristianCastilloDev/krissdev-blog).
+Esto es un sitio Demo [KrissDev](https://github.com/CristianCastilloDev/blogmain-krissdev).
 
-::github{repo="CristianCastilloDev/kirssdev-blog"}
+::github{repo="CristianCastilloDev/blogmain-krissdev"}
 
 <!-- > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
